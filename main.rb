@@ -1,8 +1,8 @@
-class Bike
+class Bicycle
     # ...
   end
   
-  class RedBicycle < Bike
+  class RedBicycle < Bicycle
   
     WEIGHT_CHANGE_AMOUNT = 10
   
